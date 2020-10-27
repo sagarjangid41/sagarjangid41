@@ -1,4 +1,5 @@
 <b>Sagar Jangid</b>
+
 I am a Computer Science Student, currently in 3rd year student at RIET, Jaipur ğŸ«
 - Arth Learner
 - Mlops , Hybrid multi cloud , Devops Al
@@ -8,8 +9,9 @@ I am a Computer Science Student, currently in 3rd year student at RIET, Jaipur ğ
 <p align="Left"> <img src="https://komarev.com/ghpvc/?username=sagarjangid41&style=plastic&color=orange&label=PROFILE+VIEWS" alt="sagarjangid41"  /> </p>
 <p></p>
 <b>skills </b>
+
 - AWS cloud
 - Devops 
-- Dl/ML
+- ML/DL
 - Big Data
 - App development
