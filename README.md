@@ -4,7 +4,7 @@ I am a Computer Science Student, currently in 3rd year student at RIET, Jaipur ð
 - Arth Learner
 - Mlops , Hybrid multi cloud , Devops Al
 
-//![sagar's github stats](https://github-readme-stats.vercel.app/api?username=sagarjangid41&count_private=true&show_icons=true&theme=highcontrast)
+![sagar's github stats](https://github-readme-stats.vercel.app/api?username=sagarjangid41&count_private=true&show_icons=true&theme=highcontrast)
 
 <p align="Left"> <img src="https://komarev.com/ghpvc/?username=sagarjangid41&style=plastic&color=orange&label=PROFILE+VIEWS" alt="sagarjangid41"  /> </p>
 <p></p>
