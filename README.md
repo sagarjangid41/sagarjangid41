@@ -2,7 +2,7 @@
 
 I am a Computer Science Student, currently in 3rd year student at RIET, Jaipur 🏫
 - Arth Learner
-- Red Hat Certified System 
+- Red Hat Certified System Administrator 
 - Mlops , Hybrid multi cloud , Devops Al
 
 ![Sagar's github stats](https://github-readme-stats.vercel.app/api?username=sagarjangid41&count_private=true&show_icons=true&theme=highcontrast)
