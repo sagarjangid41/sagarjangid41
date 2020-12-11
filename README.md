@@ -12,7 +12,8 @@ I am a Computer Science Student, currently in 3rd year student at RIET, Jaipur ð
 <b>skills </b>
 
 - AWS cloud
+- Ansible
 - Devops 
 - ML/DL
-- Big Data
+- Big Data (Hadoop)
 - App development
