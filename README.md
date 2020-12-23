@@ -18,7 +18,7 @@ I am a Computer Science Student, currently in 3rd year student at RIET, Jaipur ğ
 <img align="left" alt="linux" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
 <img align="left" alt="docker" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
 <img align="left" alt="Flutter" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
-<img align="left" alt="Flutter" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="left" alt="awsweb" width="40px" src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
 <br>
 
