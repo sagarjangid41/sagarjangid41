@@ -19,10 +19,11 @@ I am a Computer Science Student, currently in 3rd year student at RIET, Jaipur ð
 <img align="left" alt="docker" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
 <img align="left" alt="Flutter" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
 <img align="left" alt="awsweb" width="40px" src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="webserver" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" />
 
 <br>
 <br>
-<b>skills </b>
+<b><h2>skills </h2></b>
 
 - AWS cloud
 - Ansible
