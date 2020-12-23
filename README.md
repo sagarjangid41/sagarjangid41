@@ -13,8 +13,10 @@ I am a Computer Science Student, currently in 3rd year student at RIET, Jaipur ğ
 <img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
 <img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
 <img align="left" alt="Jenkins" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/jenkins.svg" />
-
-
+<img align="left" alt="AWS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/amazonaws.svg" />
+<img align="left" alt="kubernetes" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/kubernetes.svg" />
+<img align="left" alt="redhat" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/redhat.svg" />
+<img align="left" alt="docker" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/docker.svg" />
 <br>
 
 <b>skills </b>
