@@ -1,9 +1,9 @@
 <h1 align = "Center" > <b>Sagar Jangid</b> </h1>
 <h2><en>Hi</en></h2><br>
-I am a Computer Science Student, currently in 3rd year student at RIET, Jaipur 🏫
-- Arth Learner
-- Red Hat Certified System Administrator (RHCSA®)
-- Mlops , Hybrid multi cloud , Devops Al
+I am a Computer Science Student, currently in 3rd year student at RIET, Jaipur 🏫<br>
+- Arth Learner<br>
+- Red Hat Certified System Administrator (RHCSA®)<br>
+- Mlops , Hybrid multi cloud , Devops Al<br>
 
 ![Sagar's github stats](https://github-readme-stats.vercel.app/api?username=sagarjangid41&count_private=true&show_icons=true&theme=highcontrast)
 
