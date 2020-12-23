@@ -11,12 +11,14 @@ I am a Computer Science Student, currently in 3rd year student at RIET, Jaipur ğ
 <p></p>
 
 <img align="left" alt="Python" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-<img align="left" alt="GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
-<img align="left" alt="Jenkins" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/jenkins.svg" />
+<img align="left" alt="GitHub" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+<img align="left" alt="Jenkins" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" />
 <img align="left" alt="AWS" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/amazonaws.svg" />
 <img align="left" alt="kubernetes" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/kubernetes.svg" />
-<img align="left" alt="redhat" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/redhat.svg" />
-<img align="left" alt="docker" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/docker.svg" />
+<img align="left" alt="linux" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
+<img align="left" alt="docker" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
+<img align="left" alt="Flutter" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
+
 <br>
 
 <b>skills </b>
