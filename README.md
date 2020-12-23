@@ -10,14 +10,15 @@ I am a Computer Science Student, currently in 3rd year student at RIET, Jaipur ğ
 <p align="Left"> <img src="https://komarev.com/ghpvc/?username=sagarjangid41&style=plastic&color=orange&label=PROFILE+VIEWS" alt="sagarjangid41"  /> </p>
 <p></p>
 
-<img align="left" alt="Python" width="34px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-<img align="left" alt="GitHub" width="34px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
-<img align="left" alt="Jenkins" width="34px" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" />
-<img align="left" alt="AWS" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/amazonaws.svg" />
-<img align="left" alt="kubernetes" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/kubernetes.svg" />
-<img align="left" alt="linux" width="34px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
-<img align="left" alt="docker" width="34px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
-<img align="left" alt="Flutter" width="34px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
+<img align="left" alt="Python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+<img align="left" alt="GitHub" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+<img align="left" alt="Jenkins" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" />
+<img align="left" alt="AWS" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/amazonaws.svg" />
+<img align="left" alt="kubernetes" width="40px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
+<img align="left" alt="linux" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
+<img align="left" alt="docker" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
+<img align="left" alt="Flutter" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
+<img align="left" alt="Flutter" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" />
 
 <br>
 
