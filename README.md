@@ -21,7 +21,7 @@ I am a Computer Science Student, currently in 3rd year student at RIET, Jaipur ğ
 <img align="left" alt="awsweb" width="40px" src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
 <br>
-
+<br>
 <b>skills </b>
 
 - AWS cloud
