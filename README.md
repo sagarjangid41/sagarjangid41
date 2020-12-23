@@ -1,5 +1,5 @@
 <h1 align = "Center" > <b>Sagar Jangid</b> </h1>
-<i><h2><b>Hi</b></h2></i>
+<i><h2><b>Hi 👋</b></h2></i>
 
 I am a Computer Science Student, currently in 3rd year student at RIET, Jaipur 🏫
 - Arth Learner<br>
