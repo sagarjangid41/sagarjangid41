@@ -1,5 +1,5 @@
 <h1 align = "Center" > <b>Sagar Jangid</b> </h1>
-<h2><en>Hi</en></h2>
+<h2><en>Hi</en></h2><br>
 I am a Computer Science Student, currently in 3rd year student at RIET, Jaipur 🏫
 - Arth Learner
 - Red Hat Certified System Administrator (RHCSA®)
