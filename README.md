@@ -22,7 +22,8 @@ I am a Computer Science Student, currently in 3rd year student at RIET, Jaipur ğ
 <img align="left" alt="awsweb" width="40px" src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="webserver" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" />
 <img align="left" alt="redhat" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" />
-<img align="left" alt="ansible" width="40px" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" />
+<img align="left" alt="ansible" width="40px" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" />
+<img align="left" alt="terraform" width="40px" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" />
 
 <br>
 <br>
