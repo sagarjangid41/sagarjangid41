@@ -12,17 +12,18 @@ I am a Computer Science Student, currently in 3rd year student at RIET, Jaipur ğ
 <p></p>
 
 <img align="left" alt="Python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-<img align="left" alt="GitHub" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+<img align="left" alt="Flutter" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
+<img align="left" alt="hadoop" width="40px" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" />
+<img align="left" alt="redhat" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" />
+<img align="left" alt="linux" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
 <img align="left" alt="Jenkins" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" />
 <img align="left" alt="AWS" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/amazonaws.svg" />
 <img align="left" alt="kubernetes" width="40px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
-<img align="left" alt="linux" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
 <img align="left" alt="docker" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
-<img align="left" alt="Flutter" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
 <img align="left" alt="awsweb" width="40px" src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="left" alt="webserver" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" />
-<img align="left" alt="redhat" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" />
 <img align="left" alt="ansible" width="40px" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" />
+<img align="left" alt="webserver" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" />
+
 <img align="left" alt="terraform" width="40px" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" />
 
 <br>
